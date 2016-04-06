@@ -17,7 +17,7 @@
 ## JSON files for each variant:
 
 - [Apple](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/apple_emojis.json)
-- [EmojiOne](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/emoji-one_emojis.json)
+- [Emoji One](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/emojione_emojis.json)
 - [Emojipedia](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/emojipedia_emojis.json)
 - [Facebook](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/facebook_emojis.json)
 - [Google](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/google_emojis.json)
