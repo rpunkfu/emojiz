@@ -1,6 +1,6 @@
 ![Gotta catch 'em all!](http://www.mcmbuzz.com/wp-content/uploads/2013/09/English_motto.png)
 
-## List of emoji variants
+## List of emoji variants:
 
 - [Apple](http://emojipedia.org/apple/)
 - [Emoji One](http://emojipedia.org/emoji-one/)
@@ -13,3 +13,17 @@
 - [Mozilla](http://emojipedia.org/mozilla/)
 - [Samsung](http://emojipedia.org/samsung/)
 - [Twitter](http://emojipedia.org/twitter/)
+
+## JSON files for each variant:
+
+- [Apple](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/apple_emojis.json)
+- [EmojiOne](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/emoji-one_emojis.json)
+- [Emojipedia](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/emojipedia_emojis.json)
+- [Facebook](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/facebook_emojis.json)
+- [Google](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/google_emojis.json)
+- [HTC](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/htc_emojis.json)
+- [LG](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/lg_emojis.json)
+- [Microsoft](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/microsoft_emojis.json)
+- [Mozilla](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/mozilla_emojis.json)
+- [Samsung](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/samsung_emojis.json)
+- [Twitter](https://github.com/oskarcieslik/emojiz/blob/master/emojiz/twitter_emojis.json)
