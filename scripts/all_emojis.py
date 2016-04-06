@@ -8,6 +8,7 @@ from emoji_urls import EMOJI_URLS
 FAKE_USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; Win64; x64)"
 EMOJIS_CONTAINER_CLASS = "emoji-grid"
 EMOJI_DIR = os.path.dirname(os.path.realpath(__file__)) + "/../emojis/"
+MODIFIER = "+_emoji_modifier_fitzpatrick_type-"
 
 
 def read_website(url):
@@ -22,14 +23,14 @@ def get_emojis_container(html):
     return yummm.find(class_=EMOJIS_CONTAINER_CLASS)
 
 
-def get_emoji_images(emojis_container):
-    return emojis_container.find_all("img")
+def get_emoji_images(container):
+    return container.find_all("img")
 
 
-def parse_emoji_image(emoji_image):
-    emoji_id = emoji_image["title"].lower().replace(" ", "_")
-    emoji_url = emoji_image["src"]
-    return (emoji_id, emoji_url)
+def parse_emoji_image(image):
+    name = image["title"].lower().replace(" ", "_").replace(MODIFIER, "type_")
+    url = image["src"]
+    return (name, url)
 
 
 def get_emojis_filename(emojis_creator):
@@ -50,7 +51,7 @@ def main():
         emojis_container = get_emojis_container(website_html)
         emoji_images = get_emoji_images(emojis_container)
         emojis = list(map(parse_emoji_image, emoji_images))
-        emojis_dict = json.dumps({name: url for name, url in emojis})
+        emojis_dict = {name: url for name, url in emojis}
         all_emojis[emojis_creator] = emojis_dict
         create_emoji_json_file(emojis_creator, emojis_dict)
 
