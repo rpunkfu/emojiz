@@ -39,7 +39,7 @@ def get_emojis_filename(emojis_creator):
 def create_emoji_json_file(emojis_creator, emojis_dict):
     emojis_filename = get_emojis_filename(emojis_creator)
     with open(EMOJI_DIR + emojis_filename, 'w') as file:
-        file.write(json.dumps(emojis_dict))
+        json.dump(emojis_dict, file)
 
 
 def main():
