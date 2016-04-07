@@ -1,4 +1,4 @@
-![Gotta catch 'em all!](http://www.mcmbuzz.com/wp-content/uploads/2013/09/English_motto.png)
+
 
 > :zap: :zap: :zap: Your beloved emojis in one place, in multiple variants :heart:
 
@@ -29,3 +29,5 @@
 - [Mozilla](https://raw.githubusercontent.com/oskarcieslik/emojiz/master/emojiz/mozilla_emojis.json)
 - [Samsung](https://raw.githubusercontent.com/oskarcieslik/emojiz/master/emojiz/samsung_emojis.json)
 - [Twitter](https://raw.githubusercontent.com/oskarcieslik/emojiz/master/emojiz/twitter_emojis.json)
+
+![Gotta catch 'em all!](http://www.mcmbuzz.com/wp-content/uploads/2013/09/English_motto.png)
