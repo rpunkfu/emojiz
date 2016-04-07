@@ -1,4 +1,4 @@
-![Logo](http://i.imgur.com/GZ059xC.png)
+![Logo](http://i.imgur.com/cOgSNUD.png)
 
 ## List of emoji variants:
 
