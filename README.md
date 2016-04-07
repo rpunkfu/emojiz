@@ -1,4 +1,4 @@
-
+![Logo](http://i.imgur.com/86WfqkD.png)
 
 > :zap: :zap: :zap: Your beloved emojis in one place, in multiple variants :heart:
 
