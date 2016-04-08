@@ -1,4 +1,4 @@
-![Gotta catch 'em all!](http://i.imgur.com/CdPrdx2.png)
+![Gotta catch 'em all!](http://i.imgur.com/zqAifaU.png)
 
 ## List of emoji variants:
 
