@@ -1,6 +1,6 @@
 ![Cat doesn't believe it!](http://i.imgur.com/zqAifaU.png)
 
-# Grab all of your favorite emojis, in multiple variants!
+# Grab all of your beloved emojis, in multiple variants!
 
 :tada: That's right! :tada: More emojiz than you can possibly even handle. I don't ask you how you use them, 
 just grab a json with desired emoji pack and have some fun kid! :zap: 
