@@ -1,4 +1,34 @@
-![Gotta catch 'em all!](http://i.imgur.com/zqAifaU.png)
+![Cat doesn't believe it!](http://i.imgur.com/zqAifaU.png)
+
+# Grab all of your favorite emojis, in multiple variants!
+
+:tada: That's right! :tada: More emojiz than you can possibly even handle. I don't ask you how you use them, 
+just grab a json with desired emoji pack and have some fun kid! :zap: 
+
+All .json files with emojiz follows same key => value structure, where keys are names of emojiz and values are urls 
+to their image files.
+
+If you feel like getting those emojis yourself, feel free to grab script I wrote to scrape all of them, script is just 
+a quick hack so I don't expect you'll like it, but if you want PRs are welcome!
+
+## Install
+
+```bash
+$ git clone git@github.com:oskarcieslik/emojiz.git
+
+$ cd ./emojiz
+
+$ pip install -r ./scripts/requirements.txt
+
+$ python ./scripts/all_emojis.py
+```
+
+I used python 3 so if you want to use this script you probably must 
+[create a virtualenv](https://gist.github.com/evansneath/4582716) :muscle:
+
+## Inspiration
+
+My inspiration was a reaaally cool project I'm working on called [gh-emoji](https://github.com/zzarcon/gh-emoji), check it out!
 
 ## List of emoji variants:
 
@@ -27,3 +57,7 @@
 - [Mozilla](https://raw.githubusercontent.com/oskarcieslik/emojiz/master/emojiz/mozilla_emojis.json)
 - [Samsung](https://raw.githubusercontent.com/oskarcieslik/emojiz/master/emojiz/samsung_emojis.json)
 - [Twitter](https://raw.githubusercontent.com/oskarcieslik/emojiz/master/emojiz/twitter_emojis.json)
+
+## License
+
+MIT © [Oskar Cieslik](https://tldrlegal.com/license/mit-license)
