@@ -1,4 +1,4 @@
-![Cat doesn't believe it!](http://i.imgur.com/zqAifaU.png)
+![Cat doesn't believe it!](http://i.imgur.com/mbwCX0V.png)
 
 # Grab all your beloved emojis, in multiple variants!
 
