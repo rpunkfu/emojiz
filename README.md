@@ -2,6 +2,8 @@
 
 # Grab all your beloved emojis, in multiple variants!
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/rpunkfu.svg?style=social)](https://twitter.com/rpunkfu) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/home?status=Create%20your%20github%20repos%20like%20a%20champ!%0Ahttps%3A//github.com/oskarcieslik/create-github-repo)
+
 :tada: That's right! :tada: More emojiz than you can possibly even handle. I don't ask you how you use them, 
 just grab a json with desired emoji pack and have some fun kid! :zap: 
 
