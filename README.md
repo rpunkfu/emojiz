@@ -7,7 +7,7 @@
 :tada: That's right! :tada: More emojiz than you can even handle. I don't ask how you use them, 
 just grab a json with desired emoji pack and have some fun kid! :zap: 
 
-All .json files with emojiz follows same key => value structure, where keys are names of emojiz and values are urls 
+All .json files with emojiz follows same `key -> value` structure, where keys are names of emojiz and values are urls 
 to their image files.
 
 If you feel like getting those emojis yourself, feel free to grab script I wrote to scrape all of them, script is just 
