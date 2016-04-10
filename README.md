@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rpunkfu.svg?style=social)](https://twitter.com/rpunkfu) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/home?status=Grab%20all%20your%20beloved%20emojis,%20in%20multiple%20variants!%0Ahttps%3A//github.com/oskarcieslik/emojiz)
 
-:tada: That's right! :tada: More emojiz than you can possibly even handle. I don't ask you how you use them, 
+:tada: That's right! :tada: More emojiz than you can even handle. I don't ask how you use them, 
 just grab a json with desired emoji pack and have some fun kid! :zap: 
 
 All .json files with emojiz follows same key => value structure, where keys are names of emojiz and values are urls 
