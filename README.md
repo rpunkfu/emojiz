@@ -13,10 +13,10 @@ just grab a json with desired emoji pack and have some fun kid! :zap:
 All .json files with emojiz follows same `key -> value` structure, where keys are names of emojiz and values are urls 
 to their image files.
 
+## Install
+
 If you feel like getting those emojis yourself, feel free to grab script I wrote to scrape all of them, script is just 
 a quick hack so I don't expect you'll like it, but if you want PRs are welcome!
-
-## Install
 
 ```bash
 $ git clone git@github.com:oskarcieslik/emojiz.git
