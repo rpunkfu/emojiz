@@ -16,7 +16,7 @@ to their image files.
 ## Install
 
 If you feel like getting those emojis yourself, feel free to grab script I wrote to scrape all of them, script is just 
-a quick hack so I don't expect you'll like it, but if you want PRs are welcome!
+a quick hack so I don't expect you'll like it, but if you want to improve it, PRs are welcome!
 
 ```bash
 $ git clone git@github.com:oskarcieslik/emojiz.git
